@@ -1,4 +1,4 @@
-# Source for [gunnarvoet.github.io](https://gunnarvoet.github.io)
+# Source for [gunnarvoet.net](https://gunnarvoet.net)
 
 ## Biblography
 The publication list is built using a .bib file in `static/files/`.
