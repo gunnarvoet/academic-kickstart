@@ -45,14 +45,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:gvoet@ucsd.edu".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gunnarvoet
 # - icon: google-scholar
 #   icon_pack: ai
 - icon: book-open
   icon_pack: fas
   link: https://openalex.org/works?page=1&filter=authorships.author.id%3Aa5041502683&sort=publication_year%3Adesc
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gunnarvoet
 #- icon: semantic-scholar
 #  icon_pack: ai
 #  link: https://www.semanticscholar.org/author/Gunnar-Voet/152508655
