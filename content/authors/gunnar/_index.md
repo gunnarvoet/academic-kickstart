@@ -48,9 +48,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gunnarvoet
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=t_5BIqAAAAAJ
+# - icon: google-scholar
+#   icon_pack: ai
+- icon: book-open
+  icon_pack: fas
+  link: https://openalex.org/works?page=1&filter=authorships.author.id%3Aa5041502683&sort=publication_year%3Adesc
 #- icon: semantic-scholar
 #  icon_pack: ai
 #  link: https://www.semanticscholar.org/author/Gunnar-Voet/152508655
